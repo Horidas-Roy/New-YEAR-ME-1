@@ -209,22 +209,27 @@
 }
 /* call section related style */
 .call-section {
-  width: 100vw;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 130px;
 }
 .call-section-container {
-  margin: 130px, auto;
+  width: 70vw;
+  
 
   background: url("./images/gradient2.png"), url("./images/watch.png");
   background-repeat: no-repeat;
   background-position: center;
-  padding: 130px;
+  padding: 64px;
+  border-radius: 5px;
 }
 .second-call-section-container {
-  margin: 130px, auto;
+  width: 70vw;
   background: url("./images/gradient1.png"), url("./images/watch.png");
   background-repeat: no-repeat;
   background-position: center;
-  padding: 130px;
+  padding: 64px;
+  border-radius: 5px;
 }
 .call-tittle {
   display: flex;
