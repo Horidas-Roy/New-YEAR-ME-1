@@ -215,8 +215,6 @@
 }
 .call-section-container {
   width: 70vw;
-  
-
   background: url("./images/gradient2.png"), url("./images/watch.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -232,17 +230,10 @@
   border-radius: 5px;
 }
 .call-tittle {
-  display: flex;
-  width: 459px;
-  flex-direction: column;
-  flex-shrink: 0;
   color: #fff;
   font-family: Work Sans;
   font-size: 40px;
-  font-style: normal;
   font-weight: 700;
-  line-height: normal;
-
   margin-bottom: 24px;
 }
 
@@ -250,7 +241,6 @@
 .footer-container {
   width: 100vw;
   height: 100vh;
-  flex-shrink: 0;
   background: var(--dark-01, #151414);
   color: white;
   display: flex;
