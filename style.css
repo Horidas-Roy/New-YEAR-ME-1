@@ -215,7 +215,7 @@
 }
 .call-section-container {
   width: 70vw;
-  background: url("./images/gradient2.png"), url("./images/watch.png");
+  background: url("../images/gradient2.png"), url("../images/watch.png");
   background-repeat: no-repeat;
   background-position: center;
   padding: 64px;
@@ -223,7 +223,7 @@
 }
 .second-call-section-container {
   width: 70vw;
-  background: url("./images/gradient1.png"), url("./images/watch.png");
+  background: url("../images/gradient1.png"), url("../images/watch.png");
   background-repeat: no-repeat;
   background-position: center;
   padding: 64px;
