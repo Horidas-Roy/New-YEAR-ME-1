@@ -209,6 +209,7 @@
 }
 /* call section related style */
 .call-section {
+  height:45vh;
   display: flex;
   justify-content: center;
   margin-bottom: 130px;
